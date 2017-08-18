@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WndTest", "WndTest\WndTest.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCTest", "FirstMFC\FirstMFC.vcxproj", "{EE292E1A-D010-4C89-AB5B-EA48AE9754FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextEditor", "TextEditor\TextEditor.vcxproj", "{3F186824-E69C-45DB-9FEE-9589A9A6C7F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{EE292E1A-D010-4C89-AB5B-EA48AE9754FD}.Debug|Win32.Build.0 = Debug|Win32
 		{EE292E1A-D010-4C89-AB5B-EA48AE9754FD}.Release|Win32.ActiveCfg = Release|Win32
 		{EE292E1A-D010-4C89-AB5B-EA48AE9754FD}.Release|Win32.Build.0 = Release|Win32
+		{3F186824-E69C-45DB-9FEE-9589A9A6C7F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F186824-E69C-45DB-9FEE-9589A9A6C7F9}.Debug|Win32.Build.0 = Debug|Win32
+		{3F186824-E69C-45DB-9FEE-9589A9A6C7F9}.Release|Win32.ActiveCfg = Release|Win32
+		{3F186824-E69C-45DB-9FEE-9589A9A6C7F9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
